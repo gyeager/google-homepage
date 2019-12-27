@@ -1,0 +1,13 @@
+div.lns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#logo {
+    position: absolute;
+}
+
+#search {
+    position: relative;
+}
